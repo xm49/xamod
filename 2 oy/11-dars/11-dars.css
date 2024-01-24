@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+a{
+    color: #9E9AA8;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    gap: 32px;
+}
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.signup{
+    width: 105px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 28px;
+    background: #2BD0D0;
+    color: white;
+}
+.img1{
+    color: #34313D;
+    font-family: Poppins;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 90px; 
+    letter-spacing: -2px;
+    display: flex;
+    padding: 55px 167px;
+}
+header{
+    padding: 55px 167px;
+}
+.path{
+    width: 658px;
+    height: 482px;
+    flex-shrink: 0;
+    padding: 55px 167px;
+    position: relative;
+}
+

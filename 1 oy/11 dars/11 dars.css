@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    background-color:skyblue;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+.container{
+
+}
+.aside{
+    background-color: aqua;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    color: white;
+}
+.footer{
+    background-color: skyblue;
+    height: 300px;
+    width: 900px;
+    text-align: center;
+    color: white;
+}

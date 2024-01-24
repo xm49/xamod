@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+.container{
+    width: 90%;
+    border: 1px solid red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; 
+    align-content: space-around;
+}
+.box{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+}
+.item1{
+    background-color: red;
+}
+.item2{
+
+    background-color: green;
+
+}
+.item3{
+    background-color: yellow;
+}
+.item4{
+    background-color: aqua;
+}

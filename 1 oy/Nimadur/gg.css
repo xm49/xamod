@@ -1,0 +1,18 @@
+h1{     
+color: blue;
+background-color: black;
+text-align: center;
+}
+.c1{
+    color: yellow;
+    background-color: red;
+    text-align: end;
+}
+#id1{
+    color: green;
+    background-color: pink;
+    text-align: start;
+}
+p{
+    color: brown;
+}

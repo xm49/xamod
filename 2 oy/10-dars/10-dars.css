@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.h11{
+
+}
+#sect1 .container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px ;
+}
+img{
+   right: 100%;
+}

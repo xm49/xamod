@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    padding-left: 150px;
+}
+.logo a{
+    color: #222;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 21px */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.logo .xizmat{
+    color: #DE2E54;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 21px */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+nav:hover{
+    color: red;
+}
+nav button{
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    border-radius: 8px;
+    border: 2px solid #DE2E54;
+    background: #FFF;
+    color: red;
+    align-items: center;
+    gap: 50px;
+}
+
+h1{
+    color: #FFF;
+    font-family: "Open Sans Condensed";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 43.2px */
+    width: 500px;
+    height: 82.294px;
+    flex-shrink: 0;
+}
